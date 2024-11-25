@@ -10,6 +10,18 @@ header, footer{
     background-color: brown;
     display: flex;
     gap: 10vw;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.esquerda{
+    display: flex;
+    align-items: center;
+}
+
+.direita{
+    display: flex;
+    align-items: center;
 }
 
 .container{
